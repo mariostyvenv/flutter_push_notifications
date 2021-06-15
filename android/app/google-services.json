@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700263919419",
+    "project_id": "harxz-c64b6",
+    "storage_bucket": "harxz-c64b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700263919419:android:e4baa59da46547296b911e",
+        "android_client_info": {
+          "package_name": "com.example.harxz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700263919419-h38c6ud8odvsv8r2v6qnvtt3rsra3egt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harxz",
+            "certificate_hash": "e17f203c96bac49d81fc745397fad06cb69aa514"
+          }
+        },
+        {
+          "client_id": "700263919419-esi3gk0kqkrao3d8gqus46118avkmpup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlYlLIx9CZPzVavQXhr6O_eWeJNwHGvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700263919419-esi3gk0kqkrao3d8gqus46118avkmpup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
